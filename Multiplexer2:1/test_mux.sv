@@ -11,7 +11,7 @@ module test_mux();
 	   my_ic = 1;
 	   #10       // wait 10 t
 	   my_x = 1;
-  	 #10
+  	   #10
 	   my_ic = 0;
 	   #10
 	   $finish;
