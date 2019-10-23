@@ -1,0 +1,42 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Wed Oct 23 10:15:40 2019
+[*]
+[dumpfile] "/Users/salvofirera/Desktop/wave.vcd"
+[dumpfile_mtime] "Wed Oct 23 10:12:59 2019"
+[dumpfile_size] 2631
+[savefile] "/Users/salvofirera/Desktop/wave.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-4.098825 21 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 193
+[signals_width] 107
+[sst_expanded] 1
+[sst_vpaned_height] 167
+@28
+test.clk
+@22
+[color] 2
+test.num1[7:0]
+[color] 2
+test.num2[7:0]
+@c00024
+[color] 3
+test.res1[7:0]
+@28
+(0)test.res1[7:0]
+(1)test.res1[7:0]
+(2)test.res1[7:0]
+(3)test.res1[7:0]
+(4)test.res1[7:0]
+(5)test.res1[7:0]
+(6)test.res1[7:0]
+(7)test.res1[7:0]
+@1401204
+-group_end
+@25
+[color] 3
+test.res2[7:0]
+[pattern_trace] 1
+[pattern_trace] 0
