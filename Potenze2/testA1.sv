@@ -2,7 +2,7 @@ module test();
 
   reg [0:7]x;
   wire z;
-  msb1 m11 (z,x);
+  pow2 m11 (z,x);
 
   parameter quattro = 8'b00000100;
   parameter sedici = 8'b00010000;
