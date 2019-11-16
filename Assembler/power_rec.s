@@ -1,14 +1,14 @@
 .text
 .global main
 
-main:	mov r0,#4               @base
+main:	    mov r0,#4               @base
 	    mov r1,#3               @esponente
 	    bl power
 	    mov r7,#1
 	    svc 0
 
 power:
-	    cmp r1,#0               @caso base
+	    cmp r1,#0   @caso base
 	    bgt else
 	    mov r0,#1
 	    mov pc,lr
